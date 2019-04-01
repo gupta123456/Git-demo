@@ -1,3 +1,6 @@
 class linkedlist
 {
-	public void insert(
+	public void insert()
+{
+public boolean hasloop()
+{
